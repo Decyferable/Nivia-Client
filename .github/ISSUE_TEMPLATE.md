@@ -9,6 +9,7 @@ To check the boxes, and please check the boxes that apply, use the following met
 - [ ] I am a verified Pandora user (I'm not using a cracked version)
 - [ ] I have checked to make sure the bug/issue has not already been reported
 - [ ] I have been able to replicate the issue multiple times
+- [ ] I have read through and completed ["Common Problems & Solutions"](https://github.com/Decyferable/Pandora-Client/wiki/Common-Problems-&-Solutions)
 
 ## Issue Information
 ### Description
