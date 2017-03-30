@@ -13,7 +13,7 @@ Replace the x with a space in the checkbox
 
 ## Issue Information
 ### Description
-###### *Please desribe the issue in detail for us, you may also want to include information about the version *
+###### *Please desribe the issue in detail for us, you may also want to include information about the version*
 
 ### Replication Steps
 ###### *Please list all the steps to replicate the bug/issue*
