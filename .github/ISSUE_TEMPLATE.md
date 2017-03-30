@@ -1,4 +1,4 @@
-If you're reporting a bug/issue please make sure to include and check the following boxes.
+### If you're reporting a bug/issue please make sure to include and check the following boxes.
 
 - [ ] I am running the latest version
 - [ ] I am a verified Pandora user (I'm not using a cracked version)
@@ -7,7 +7,7 @@ If you're reporting a bug/issue please make sure to include and check the follow
 
 ## Issue Information
 ### Description
-###### *Please desribe the issue in detail for us*
+###### *Please desribe the issue in detail for us, you may also want to include information about the version *
 
 ### Replication Steps
 ###### *Please list all the steps to replicate the bug/issue*
@@ -18,3 +18,6 @@ If you're reporting a bug/issue please make sure to include and check the follow
 4. example
 5. list
 ```
+
+### Other Info
+###### *Please include screenshots, logs, and any other information you feel is needed for the issue and logs do help*
