@@ -1,5 +1,5 @@
 ### b9 hotfix (28/03/2017)
-*Shows as b10, but it's not. b10 is coming*
+*Shows as b10, but it's not. b10 is coming. Please check [this wiki page](https://github.com/Decyferable/Pandora-Client/wiki/b9-Auth-Hotfix)*
 - Fixed auth
 
 ### b9
