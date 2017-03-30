@@ -5,7 +5,7 @@ To check the boxes, and please check the boxes that apply, use the following met
 - [x] I am a checkbox
 ```
 
-- [] I am running the latest version
+- [ ] I am running the latest version
 - [ ] I am a verified Pandora user (I'm not using a cracked version)
 - [ ] I have checked to make sure the bug/issue has not already been reported
 - [ ] I have been able to replicate the issue multiple times
