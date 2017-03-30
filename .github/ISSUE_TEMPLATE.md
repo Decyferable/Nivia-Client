@@ -1,7 +1,7 @@
-### If you're reporting a bug/issue please make sure to include the following template.
+### If you're reporting a bug/issue please make sure to include the following template (remove all the extra stuff before you submit the issue)
 To check the boxes, and please check the boxes that apply, use the following method...
-
 ```markdown
+Replace the x with a space in the checkbox
 - [x] I am a checkbox
 ```
 
@@ -17,13 +17,11 @@ To check the boxes, and please check the boxes that apply, use the following met
 
 ### Replication Steps
 ###### *Please list all the steps to replicate the bug/issue*
-```markdown
 1. Here 
 2. is
 3. an
 4. example
 5. list
-```
 
 ### Other Info
 ###### *Please include screenshots, logs, and any other information you feel is needed for the issue and logs do help*
