@@ -1,6 +1,11 @@
-### If you're reporting a bug/issue please make sure to include and check the following boxes.
+### If you're reporting a bug/issue please make sure to include the following template.
+To check the boxes, and please check the boxes that apply, use the following method...
 
-- [ ] I am running the latest version
+```markdown
+- [x] I am a checkbox
+```
+
+- [] I am running the latest version
 - [ ] I am a verified Pandora user (I'm not using a cracked version)
 - [ ] I have checked to make sure the bug/issue has not already been reported
 - [ ] I have been able to replicate the issue multiple times
