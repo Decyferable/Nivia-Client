@@ -1,3 +1,4 @@
+### Issue reporting is for reporting actual issues, if you need support please check ["Common Problems & Solutions"](https://github.com/Decyferable/Pandora-Client/wiki/Common-Problems-&-Solutions) and if it's not there please join the Discord.
 ### If you're reporting a bug/issue please make sure to include the following template (remove all the extra stuff before you submit the issue)
 To check the boxes, and please check the boxes that apply, use the following method...
 ```markdown
