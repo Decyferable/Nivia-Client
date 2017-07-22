@@ -1,2 +1,2 @@
-# Pandora-Client
-Report Issues/Bugs for pandora Client.
+# Nivia-Client
+Report Issues/Bugs for Nivia Client.
